@@ -1,0 +1,6 @@
+framework module Pods_Werewolves {
+  umbrella header "Pods-Werewolves-umbrella.h"
+
+  export *
+  module * { export * }
+}
